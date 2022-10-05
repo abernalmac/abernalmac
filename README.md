@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abernalmac
 - 👀 I’m interested in Computer Science, specifically IT engineering. 
-- 🌱 I’m currently learning Computer Science at the Universitat Politècnica de Catalunya (4th and final year). 
-- 📫 How to reach me: albert.bernal.macias@estudiantat.upc.edu, abernalmac@gmail.com or on Twitter @abernalmac. 
+- 🌱 I graduated in IT engineering at UPC and am currently working at Entrust as such. 
+- 📫 How to reach me: abernalmac@gmail.com or on Twitter @abernalmac. 
 
 <!---
 abernalmac/abernalmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
