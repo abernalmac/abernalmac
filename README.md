@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abernalmac
 - 👀 I’m interested in Computer Science, specifically IT engineering. 
-- 🌱 I graduated in IT engineering at UPC and am currently working at Entrust as such. 
+- 🌱 I graduated in IT engineering at UPC and am currently working at Materialise as such. 
 - 📫 How to reach me: abernalmac@gmail.com or on Twitter @abernalmac. 
 
 <!---
